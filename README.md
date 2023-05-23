@@ -1,10 +1,6 @@
----
-title: "README"
----
-
 # Hospitals.CSV Analysis
 
-Final project for the PROPEL Statistics course.
+This is the final project for the PROPEL Statistics course for Rachael Schmidt and Stacy de Florencio.
 
 The dataset used for analysis and for this repository is from the CORGIS 
 Datasets Project, by Austin Cory Bart, Ryan Whitcomb, Jason Riddle, Omar Saleem,
